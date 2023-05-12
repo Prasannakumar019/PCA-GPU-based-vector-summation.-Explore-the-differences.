@@ -435,6 +435,7 @@ return(0);
 
 ### 3. Block.x=256
 
+<img width="455" alt="3" src="https://github.com/Prasannakumar019/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/75235090/4bf8a5a2-9971-42c9-9eda-b1ebb64530c5">
 
 
 ## Result:
