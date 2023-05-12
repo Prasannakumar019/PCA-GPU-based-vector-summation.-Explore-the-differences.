@@ -436,6 +436,7 @@ return(0);
 ### 3. Block.x=256
 
 
+
 ## Result:
 
 i) Thus the program to compare the execution time and result of summing two arrays using CUDA programming by setting block.x = 1023 and block.x = 1024 has been successfully implemented and verified.
